@@ -1,2 +1,2 @@
 # heap
-this is a min and max heap with heap sort
+Implementation of Min and Max heap for integers with heapsort
